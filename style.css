@@ -14,7 +14,9 @@ h1{
   font-variation-settings:
     "ELSH" 0;
 }
-
+footer{
+    text-align: center;
+}
 h2{ text-align: center;
  }
 h3{ border: solid 13px rgb(103, 179, 255);
