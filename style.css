@@ -25,6 +25,7 @@ footer>p{
 
 h2{ 
      display: inline-block;
+     width: 40px;
     border: 7px solid rgb(103, 179, 255);
     border-radius: 12px;
     text-align:center;
