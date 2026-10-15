@@ -44,3 +44,7 @@ a{
  color: rgb(205, 149, 255);
 text-decoration: none;
 }
+li{ 
+color: rgb(255,255,255);
+    text-align: right;
+}
