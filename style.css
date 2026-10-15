@@ -1,4 +1,8 @@
+html{
+    min-height:100%;
+}
 body{
+    margin:0;
     background-image:url("night-moon-stars.jpg");
     background-repeat: no-repeat;
     background-size: cover;
