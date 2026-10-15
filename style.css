@@ -1,6 +1,6 @@
 body{
     background-color: aquamarine;
-    color:navy;
+    color: navy;
 }
 h1{
     text-align: center;
@@ -8,5 +8,5 @@ h1{
 
 h2{ text-align: center;
  }
-h3{ border: solid 13px red;
+h3{ border: solid 13px red border-radius: 50%;
    }
