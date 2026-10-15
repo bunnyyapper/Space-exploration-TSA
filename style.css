@@ -3,7 +3,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    color: rgb(205, 149, 255);
+    ;
 }
 h1{
     text-align: center;
@@ -13,6 +13,7 @@ h1{
   font-style: normal;
   font-variation-settings:
     "ELSH" 0;
+    color: rgb(205, 149, 255)
 }
 footer{
     text-align: center;
@@ -23,5 +24,6 @@ h2{ border: solid 13px rgb(103, 179, 255);
     text-align:center;
    }
 a{ 
+ color: rgb(205, 149, 255)
 text-decoration: none;
 }
