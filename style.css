@@ -17,10 +17,10 @@ h1{
 footer{
     text-align: center;
 }
-h2{ text-align: center;
- }
-h3{ border: solid 13px rgb(103, 179, 255);
+
+h2{ border: solid 13px rgb(103, 179, 255);
     border-radius: 999px;
+    text-align-center
    }
 a{ 
 text-decoration: none;
