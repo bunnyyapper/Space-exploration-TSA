@@ -3,7 +3,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    color: pink;
+    color: rgb(205, 149, 255);
 }
 h1{
     text-align: center;
@@ -11,7 +11,7 @@ h1{
 
 h2{ text-align: center;
  }
-h3{ border: solid 13px red;
+h3{ border: solid 13px rgb(103, 179, 255);
     border-radius: 9999999px;
    }
 a{ 
