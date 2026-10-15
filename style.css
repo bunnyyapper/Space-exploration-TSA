@@ -11,3 +11,6 @@ h2{ text-align: center;
 h3{ border: solid 13px red;
     border-radius: 9999999px;
    }
+a{ 
+text-decoration: none;
+}
