@@ -11,7 +11,6 @@ body{
  
 }
 h1{
- size:30px;
     text-align: center;
     font-size: 24px;
     font-family: "Rouge Script", cursive;
@@ -44,6 +43,11 @@ a{
  color: rgb(205, 149, 255);
 text-decoration: none;
 }
+ul, ol { 
+    list-style-position: inside;
+    padding-left:0
+}
+
 li{ 
 color: rgb(255,255,255);
     text-align: right;
