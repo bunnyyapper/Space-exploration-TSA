@@ -1,7 +1,9 @@
-/* 
-This website utilizes jQuery (https://jquery.com) 
-Licensed under the MIT License (https://jquery.org)
-*/
+<!-- 
+  Third-Party Code Attribution:
+  This website uses the jQuery library hosted by Google Hosted Libraries.
+  Source: https://google.com
+  jQuery is openly licensed under the MIT License.
+-->
 $(document).ready(function() {
     
     
