@@ -44,11 +44,13 @@ a{
 text-decoration: none;
 }
 ul, ol { 
+    direction: rtl;
     list-style-position: inside;
     padding-left:0
 }
 
 li{ 
+    direction: ltr;
 color: rgb(255,255,255);
     text-align: right;
 }
