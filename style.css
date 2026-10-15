@@ -15,7 +15,7 @@ h1{
     "ELSH" 0;
     color: rgb(205, 149, 255);
 }
-footer{
+footer>p{
     text-align: center;
 }
 
