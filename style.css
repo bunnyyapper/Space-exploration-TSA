@@ -12,7 +12,7 @@ h1{
 h2{ text-align: center;
  }
 h3{ border: solid 13px rgb(103, 179, 255);
-    border-radius: 9999999px;
+    border-radius: 999px;
    }
 a{ 
 text-decoration: none;
