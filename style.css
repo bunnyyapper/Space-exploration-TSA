@@ -84,7 +84,7 @@ padding-left:12px;
 }
 
 
-ul, ol { 
+ #facts { 
     direction: rtl; /* right to left*/
     list-style-position: inside;
     padding-left:0;
