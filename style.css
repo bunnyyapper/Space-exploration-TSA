@@ -22,7 +22,7 @@ body{
   object-fit: cover;
     opacity: 0%;
   animation: fadeInout 3s ease-out 1 forwards; /* fadeinout is animation name takes 3 second,forwards stops from repeating, keeps final frame style */
-    pointer-events: auto;
+    pointer-events: none;
 }
 
 @keyframes fadeInout{
