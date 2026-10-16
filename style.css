@@ -84,7 +84,10 @@ border: 4px double rgb(101, 91, 144);
 border-radius: 5px;
 
 }
-
+.credits{
+    color:rgb(161, 199, 221);
+    text-align:left;
+}
 
  #facts { 
     direction: rtl; /* right to left*/
