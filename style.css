@@ -53,7 +53,7 @@ body{
         overflow: clip;
     }
     100%{
-        overflow:unset; /* final frame */
+        overflow:auto; /* final frame */
          
     }
 }
