@@ -42,8 +42,10 @@ h2{
 header{
     display:flex;
     justify-content: center;
+    height: 35px;
 }
 nav > a{
+  padding-top:10px;
   margin:7px;
   font-size:18px;
 }
