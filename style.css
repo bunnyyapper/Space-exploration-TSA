@@ -1,7 +1,6 @@
 html{
     min-height:100%;
-    
-}
+    animation: stopScroll 3s forwards;
 body{
     margin:0;
     background-image:url("night-moon-stars.jpg");
@@ -22,7 +21,7 @@ body{
   object-fit: cover;
     opacity: 0%;
   animation: fadeInout 3s ease-out 1 forwards; /* fadeinout is animation name takes 3 second,forwards stops from repeating, keeps final frame style */
-    pointer-events: none; 
+
 }
 
 @keyframes fadeInout{
@@ -40,7 +39,24 @@ body{
          
     }
 }
-
+@keyframes stopScroll{
+    0%{ 
+    
+    overflow: hidden;
+     overflow: clip;
+    }
+    
+    50%{
+    
+       overflow: hidden;
+        overflow: clip;
+    }
+    100%{
+        overflow:hidden;
+         overflow: clip; /* final frame */
+         
+    }
+}
 footer>p{
     text-align: center;
     color:rgb(103, 179, 255);
