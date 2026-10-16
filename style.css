@@ -107,7 +107,7 @@ border: 4px double rgb(126, 120, 152);
 border-radius: 5px;
 
 }
-.log-credits{
+.log-credits{ /* parent main */
     display:flex;
     flex-direction:row;
     text-align:right;
