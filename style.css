@@ -19,7 +19,7 @@ body{
   height: 100vh;
   object-fit: cover;
     opacity: 0%;
-animation: fadeInout 1s ease-in-out 1 forwards;
+animation: fadeInout 1s ease-out forwards;
 }
 
 @keyframes fadeInout{
