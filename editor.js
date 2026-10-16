@@ -5,7 +5,7 @@
   jQuery is openly licensed under the MIT License.
 */
 
-$(document).ready(function(){
+$(document).ready(function(){  /* runs only after html is loaded */
  $(".galaxy").on("animationend", function(){ /* removes the galaxy image after animation is donw */
        $(this).remove(); 
     });
