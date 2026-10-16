@@ -96,6 +96,9 @@ border-radius: 5px;
     justify-content: space-evenly;
     flex-direction:row;
 }
+.log-credits > h3{
+    color:rgb(85, 106, 134);
+}
 .credits{
     color:rgb(161, 199, 221);
     text-align:left;
