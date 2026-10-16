@@ -6,6 +6,6 @@
 */
 
 
-    $(".galaxy").on("animationend", function(){
-       $(this).remove();
+    $(".galaxy").on("animationend", function(){ /* removes the galaxy image after animation is donw */
+       $(this).remove(); 
     })
