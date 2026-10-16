@@ -1,6 +1,7 @@
 html{
     min-height:100%;
     animation: stopScroll 3s forwards;
+}
 body{
     margin:0;
     background-image:url("night-moon-stars.jpg");
