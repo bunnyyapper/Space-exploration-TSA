@@ -89,7 +89,13 @@ border-radius: 5px;
     text-align:left;
     width:40%; 
     margin-right:7px;
-    
+
+}
+.assets{
+    color:rgb(163, 151, 209);
+    text-align:left;
+    width:40%; 
+    margin-right:7px;
 }
 
  #facts { 
