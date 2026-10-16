@@ -24,14 +24,17 @@ body{
 
 @keyframes fadeInout{
     0%{ 
+          overflow: hidden; /* locks scroll */
         opacity: 1;
     }
     
     50%{
+          overflow: hidden;
         opacity:0.6;
     }
     100%{
         opacity:0; /* final frame */
+          overflow: auto;  /* restores it */
     }
 }
 footer>p{
