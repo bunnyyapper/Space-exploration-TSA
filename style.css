@@ -75,7 +75,7 @@ nav {
   margin:10px;
   font-size:18px;
 }
-a{ 
+.nav-link{ 
  color: rgb(205, 149, 255);
 text-decoration: none;
 margin-left:12px;
