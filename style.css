@@ -17,7 +17,7 @@ body{
     z-index:10; /* puts top layer */
     width: 100vh;
   height: 100vh;
-  object-fit: cover;
+  object-fit: fill;
     opacity: 0%;
 animation: fadeInout 1s ease-out forwards;
 }
