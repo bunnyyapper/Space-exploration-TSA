@@ -39,6 +39,10 @@ h2{
      margin: 0;
   padding: 0;
 }
+header{
+    display:flex;
+    justify-content: center;
+}
 a{ 
  color: rgb(205, 149, 255);
 text-decoration: none;
