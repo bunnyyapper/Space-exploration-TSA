@@ -1,6 +1,6 @@
 html{
     min-height:100%;
-    animation: lockScroll 3s forwards;
+    
 }
 body{
     margin:0;
@@ -9,7 +9,7 @@ body{
     background-size: cover;
     background-position: center;
     min-height: 100vh; 
-    animation: lockScroll 3s forwards;
+    
  
 }
 .galaxy{
@@ -40,20 +40,7 @@ body{
          
     }
 }
-@keyframes lockScroll{
-     0%{ 
-       overflow: hidden; /* locks scroll */
-       
-    }
-    
-    50%{
-    overflow: hidden;
-     
-    }
-    100%{
-       overflow: auto;  /* restores it */
-    }
-}
+
 footer>p{
     text-align: center;
     color:rgb(103, 179, 255);
