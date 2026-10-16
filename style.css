@@ -44,17 +44,17 @@ body{
 @keyframes stopScroll{
     0%{ 
     
-    overflow: hidden;
-     overflow: clip;
+    overflow-y: hidden;
+    
     }
     
     50%{
     
-       overflow: hidden;
-        overflow: clip;
+       overflow-y: hidden;
+       
     }
     100%{
-        overflow:auto; /* final frame */
+        overflow-y:auto; /* final frame */
          
     }
 }
