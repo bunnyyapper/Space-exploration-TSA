@@ -93,7 +93,6 @@ border-radius: 5px;
 }
 .log-credits{
     display:flex;
-    justify-content: space-evenly;
     flex-direction:row;
     text-align:right;
 }
