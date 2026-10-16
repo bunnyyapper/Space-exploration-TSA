@@ -84,6 +84,10 @@ border: 4px double rgb(101, 91, 144);
 border-radius: 5px;
 
 }
+.log-credits{
+    display:flex;
+    justify-content: space-evenly;
+}
 .credits{
     color:rgb(161, 199, 221);
     text-align:left;
