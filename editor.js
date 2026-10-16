@@ -7,5 +7,5 @@
 
 
     $(".galaxy").on("animationend", function(){
-       $(this).remove();
+       $(".galaxy").remove();
     })
