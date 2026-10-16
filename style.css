@@ -44,7 +44,7 @@ header{
     justify-content: center;
     height: 40px;
 }
-nav > a{
+nav {
   padding-top:20px;
   margin:7px;
   font-size:18px;
