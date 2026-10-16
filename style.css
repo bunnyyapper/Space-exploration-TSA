@@ -43,6 +43,7 @@ header{
     display:flex;
     justify-content: center;
     height: 40px;
+    align-items: center;
 }
 nav {
   padding-top:15px;
