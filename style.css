@@ -43,10 +43,10 @@ header{
     display:flex;
     justify-content: center;
     height: 40px;
-    align-items: center;
+    align-items: center; /*vertically centers*/
 }
 nav {
-  padding-top:15px;
+  padding-top:10px;
   margin:7px;
   font-size:18px;
 }
@@ -55,13 +55,13 @@ a{
 text-decoration: none;
 }
 ul, ol { 
-    direction: rtl;
+    direction: rtl; /* right to left*/
     list-style-position: inside;
-    padding-left:0
+    padding-left:0;
 }
 
 li{ 
-    direction: ltr;
+    direction: ltr; /* left to right*/
 color: rgb(255,255,255);
     text-align: right;
 }
