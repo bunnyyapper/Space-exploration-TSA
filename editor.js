@@ -6,7 +6,7 @@
 */
 
 $(document).ready(function(){  /* runs only after html is loaded */
- $(".galaxy").on("animationend", function(){ /* removes the galaxy image after animation is donw */
+ $(".galaxy").on("animationend", function(){ /* removes the galaxy image after animation is done */
        $(this).remove(); 
     });
 });
