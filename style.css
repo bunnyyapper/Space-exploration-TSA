@@ -26,7 +26,7 @@ footer>p{
 h2{ 
     
      width: 400px;
-    border: 11px solid rgb(103, 179, 255);
+    border: 7px solid rgb(103, 179, 255);
     border-radius: 12px;
     text-align:center;
      font-family: "Geist Pixel", sans-serif;
@@ -42,6 +42,10 @@ h2{
 header{
     display:flex;
     justify-content: center;
+}
+nav > a{
+  margin:7px;
+  font-size:18px;
 }
 a{ 
  color: rgb(205, 149, 255);
