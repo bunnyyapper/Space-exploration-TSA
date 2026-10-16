@@ -9,5 +9,6 @@ $(document).ready(function(){  /* runs only after html is loaded */
  $(".galaxy").on("animationend", function(){ /* "animationend" is a built in event happens when animation done, */
      $(this).remove();   /*removes the galaxy image after animation is done */ 
     });
+ 
 });
    
