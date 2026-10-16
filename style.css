@@ -87,6 +87,9 @@ border-radius: 5px;
 .credits{
     color:rgb(161, 199, 221);
     text-align:left;
+    width:40%; 
+    margin-right:7px;
+    
 }
 
  #facts { 
