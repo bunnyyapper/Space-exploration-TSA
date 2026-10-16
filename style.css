@@ -1,5 +1,6 @@
 html{
     min-height:100%;
+    animation: lockScroll 3s fowards;
 }
 body{
     margin:0;
@@ -8,6 +9,7 @@ body{
     background-size: cover;
     background-position: center;
     min-height: 100vh; 
+    animation: lockScroll 3s fowards;
  
 }
 .galaxy{
@@ -24,17 +26,31 @@ body{
 
 @keyframes fadeInout{
     0%{ 
-          overflow: hidden; /* locks scroll */
+    
         opacity: 1;
     }
     
     50%{
-          overflow: hidden;
+    
         opacity:0.6;
     }
     100%{
         opacity:0; /* final frame */
-          overflow: auto;  /* restores it */
+         
+    }
+}
+@keyframes lockScroll{
+     0%{ 
+       overflow: hidden; /* locks scroll */
+       
+    }
+    
+    50%{
+    overflow: hidden;
+     
+    }
+    100%{
+       overflow: auto;  /* restores it */
     }
 }
 footer>p{
