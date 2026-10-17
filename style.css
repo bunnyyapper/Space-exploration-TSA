@@ -20,7 +20,7 @@ body{
     z-index:10; /* puts top layer */
     width: 100vw;
   height: 100vh;
-  object-fit: cover;
+  object-fit:cover;
     opacity: 1;
   animation: fadeInout 3s ease-out 1 forwards; /* fadeinout is animation name takes 3 second,forwards stops from repeating, keeps final frame style */
   
