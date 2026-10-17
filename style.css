@@ -111,7 +111,6 @@ border-radius: 5px;
 .log-credits{ /* parent main */
     display:flex !important; 
     flex-direction:row !important;
-    text-align:right;
     justify-content: space-between;
 }
 .log-credits >.credits > h3, .log-credits >.assets > h3{
@@ -120,7 +119,7 @@ border-radius: 5px;
 }
 .credits{ 
     color:rgb(161, 199, 221);
-    text-align:left;
+    text-align:right;
     width:40%; 
     margin-right:7px;
      text-align:right;
