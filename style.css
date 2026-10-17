@@ -113,10 +113,7 @@ border-radius: 5px;
     flex-direction:row !important;
     justify-content: space-between;
 }
-.log-credits >.credits > h3, .log-credits >.assets > h3{
-    color:rgb(47, 97, 163);
 
-}
 .credits{ 
     color:rgb(161, 199, 221);
     text-align:right;
