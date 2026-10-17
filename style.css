@@ -112,6 +112,7 @@ border-radius: 5px;
     display:flex !important; 
     flex-direction:row !important;
     justify-content: center;
+    margin-top:15px;
     gap:30px;
 }
 
