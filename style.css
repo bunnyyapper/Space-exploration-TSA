@@ -114,7 +114,7 @@ border-radius: 5px;
     text-align:right;
     justify-content: center;
 }
-.log-credits >.credits > h3{
+.log-credits >.credits > h3, .log-credits >.assets > h3{
     color:rgb(47, 97, 163);
 
 }
