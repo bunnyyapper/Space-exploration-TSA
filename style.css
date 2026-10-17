@@ -131,6 +131,9 @@ border-radius: 5px;
     border-radius:20px;
     
 }
+.credits > h3, .assets > h3{
+    text-align: center;
+}
 .assets > p >a{
     color:rgb(163, 151, 209);
 }
