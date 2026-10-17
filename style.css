@@ -109,8 +109,8 @@ border-radius: 5px;
 
 }
 .log-credits{ /* parent main */
-    display:flex;
-    flex-direction:row;
+    display:flex !important; 
+    flex-direction:row !important;
     text-align:right;
 }
 .log-credits > h3{
