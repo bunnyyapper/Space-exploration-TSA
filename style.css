@@ -117,18 +117,18 @@ border-radius: 5px;
 
 .credits{ 
     color:rgb(161, 199, 221);
-    text-align:right;
+    text-align:left;
     width:40%; 
-    text-align:right;
     background-color: rgba(112, 219, 255, 0.186);
     border-radius: 20px;
 }
 .assets{
     color:rgb(163, 151, 209);
-    text-align:right;
+    text-align:left;
     width:40%; 
     background-color: rgba(113, 100, 252, 0.196);
     border-radius:20px;
+    margin:15px;
     
 }
 .credits > h3, .assets > h3{
