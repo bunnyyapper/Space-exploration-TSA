@@ -112,7 +112,7 @@ border-radius: 5px;
     display:flex !important; 
     flex-direction:row !important;
     text-align:right;
-    justify-content: center;
+    justify-content: space-between;
 }
 .log-credits >.credits > h3, .log-credits >.assets > h3{
     color:rgb(47, 97, 163);
