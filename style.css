@@ -121,13 +121,14 @@ border-radius: 5px;
     width:40%; 
     text-align:right;
     background-color: rgba(112, 219, 255, 0.491);
+    border-radius: 20px;
 }
 .assets{
     color:rgb(163, 151, 209);
     text-align:right;
     width:40%; 
     background-color: rgba(113, 100, 252, 0.51);
-  
+    border-radius:20px;
     
 }
 .assets > p >a{
