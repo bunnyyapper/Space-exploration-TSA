@@ -63,7 +63,8 @@ footer>p{
     color:rgb(161, 199, 221);
 }
 footer{
- 
+  position: absolute;
+  bottom:0;
 }
 h1{
     text-align: center;
