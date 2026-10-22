@@ -151,7 +151,8 @@ border-radius: 5px;
     color:rgb(163, 151, 209);
 }
 
- #facts { 
+ .star-list { 
+     list-style-type:"💫";
  
     list-style-position: inside;
     padding-left:0;
