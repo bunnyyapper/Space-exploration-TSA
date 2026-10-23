@@ -16,6 +16,9 @@ body{
     0%{
         overflow-y: hidden;
     }
+    50%{
+        overflow-y: hidden;
+    }
     100%{
        overflow: auto; 
     }
