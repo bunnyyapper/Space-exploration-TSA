@@ -9,9 +9,7 @@ body{
     background-size: cover;
     background-position: center;
     min-height: 100vh; 
-    animation: stopScroll 2s forwards;
-    
- 
+    overflow-x: hidden;
 }
 .galaxy{
     position:absolute;
@@ -41,26 +39,8 @@ body{
     100%{
         opacity:1;
     }
-@keyframes stopScroll{
-    0%{ 
-    
-    overflow-y: hidden;
-    
-    }
-    
-    
-    50%{
-    
-       overflow-y: hidden;
-        
-       
-    }
-    
-    100%{
-        overflow-y:auto; /* final frame */
-         
-    }
 }
+
 footer>p{
     color:rgb(161, 199, 221);
     margin:0;
@@ -117,7 +97,14 @@ margin-left:12px;
 padding:5px;
 border: 4px double rgb(126, 120, 152);
 border-radius: 5px;
+display: inline-block;
+background: rgba(126, 120, 152, 0.08);
 
+}
+.nav-link:hover,
+.nav-link:focus-visible{
+    outline: 2px solid rgb(205, 149, 255);
+    outline-offset: 2px;
 }
 .log-credits{ /* parent main */
     display:flex !important; 
