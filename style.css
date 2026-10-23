@@ -9,7 +9,7 @@ body{
     background-size: cover;
     background-position: center;
     min-height: 100vh; 
-    animation: stopScroll 2s forwards;
+    animation: stopScroll 3s forwards;
     
 
 }
