@@ -12,7 +12,7 @@ body{
     animation: stopScroll 3s forwards;
      overflow-x: hidden;  
 }
-@keyframe stopScroll{
+@keyframes stopScroll{
     0%{
         overflow-y: hidden;
     }
