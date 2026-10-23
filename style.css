@@ -12,6 +12,14 @@ body{
     animation: stopScroll 3s forwards;
      overflow-x: hidden;  
 }
+@keyframe stopScroll{
+    0%{
+        overflow-y: hidden;
+    }
+    100%{
+        overflow-y: hidden;
+    }
+}
 .galaxy{
     position:absolute;
     top:0px;
