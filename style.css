@@ -9,7 +9,9 @@ body{
     background-size: cover;
     background-position: center;
     min-height: 100vh; 
-    overflow-x: hidden;
+    animation: stopScroll 2s forwards;
+    
+
 }
 .galaxy{
     position:absolute;
