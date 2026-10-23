@@ -9,7 +9,7 @@ body{
     background-size: cover;
     background-position: center;
     min-height: 100vh; 
-    animation: stopScroll 3s forwards;
+    animation: stopScroll 4s forwards;
      overflow-x: hidden;  
 }
 @keyframes stopScroll{
@@ -17,7 +17,7 @@ body{
         overflow-y: hidden;
     }
     100%{
-        overflow-y: hidden;
+       overflow: auto; 
     }
 }
 .galaxy{
