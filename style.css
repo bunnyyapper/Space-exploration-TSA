@@ -9,6 +9,7 @@ html{
     border-radius: 13px;
     margin-top: 30px;
     padding-right: 0;
+    width: fit-content;
 }
 
 body{
