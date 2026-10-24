@@ -1,7 +1,14 @@
 html{
     min-height:100%;
     
+    
 }
+.section{
+    width:400;
+    border: 5px solid rgb(37, 150, 190);
+    border-radius: 13px;
+}
+
 body{
     margin:0;
     background-image:url("night-moon-stars.jpg");
