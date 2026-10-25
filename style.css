@@ -183,5 +183,9 @@ h3{
     color: white;
     
   }
+.rainbow-text
+{ background: linear-gradient (to right, rgb(255,0,30), rgb(255,0,255);
+    
+}
 
 
