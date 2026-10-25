@@ -6,7 +6,7 @@ html{
 .section{
     display: inline-block;
     width: 80%;
-    border: 5px solid rgb(8, 20, 72);
+    border: 5px solid rgb(175, 3, 255);
     border-radius: 13px;
     background: linear-gradient(135deg, rgb(163,178,235), rgb(46, 85, 237));
     margin-top: 100px;
