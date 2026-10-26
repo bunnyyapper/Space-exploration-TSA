@@ -197,6 +197,13 @@ h3{
 }
 .cascade
 {
+    display: flex;
+    overflow: hidden;}
+.letter{
+    display: inline block;
+    opacity: 0;
+    animation: fadeinDown 0.5 ease forwards;
+}
     .letter:nth-child(1) { animation delay: 0.1s;}
     .letter:nth-child(2) { animation delay: 0.2s;}
     .letter:nth-child(3) { animation delay: 0.3s;}
@@ -213,5 +220,16 @@ h3{
     .letter:nth-child(14) { animation delay: 1.4s;}
     .letter:nth-child(15) { animation delay: 1.5s;}
     .letter:nth-child(16) { animation delay: 1.6s;}
+@keyframes fadeinDown {
+    from{
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
+        
+
 
