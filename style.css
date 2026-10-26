@@ -188,20 +188,21 @@ h3{
     color: white;
     
   }
-.rainbow-text
+.rainbow-text.cascade{
+    display: flex;
+    justify-content: center;
+    gap: 2px;
+    flex-wrap: wrap
+    overflow: visible;
+}
 { background: linear-gradient(90deg, rgb(179, 143, 205), rgb(110, 124, 153));
  -webkit-background-clip: text;
  background-clip: text;
  color: transparent;
     
 }
-.cascade
-{
-    display: flex;
-    gap: 2px;
-    overflow: visible;
-}
-.letter{
+
+.rainbow-text .letter{
     display: inline-block;
     opacity: 0;
     animation: fadeinDown 0.5s ease forwards;
