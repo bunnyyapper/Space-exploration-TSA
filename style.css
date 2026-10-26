@@ -197,8 +197,7 @@ h3{
 }
 .cascade
 {
-    display: flex;
-    overflow: hidden;}
+    display: flex;}
 .letter{
     display: inline-block;
     opacity: 0;
