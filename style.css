@@ -192,7 +192,7 @@ h3{
     display: flex;
     justify-content: center;
     gap: 2px;
-    flex-wrap: wrap
+    flex-wrap: wrap;
     overflow: visible;
 }
 { background: linear-gradient(90deg, rgb(179, 143, 205), rgb(110, 124, 153));
