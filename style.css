@@ -223,6 +223,7 @@ h3{
     .letter:nth-child(14) { animation-delay: 1.4s;}
     .letter:nth-child(15) { animation-delay: 1.5s;}
     .letter:nth-child(16) { animation-delay: 1.6s;}
+    .letter:nth-child(17) { animation-delay: 1.7s;}
 @keyframes fadeinDown {
     from{
         opacity: 0;
