@@ -13,6 +13,7 @@ html{
     padding-right: 0;
     width: fit-content;
     opacity: 75%;
+    
 }
 
 body{
@@ -35,6 +36,10 @@ body{
     90%{
        overflow: auto; 
     }
+}
+main{
+    display:flex;
+    justify-content: center;
 }
 .galaxy{
     position:absolute;
