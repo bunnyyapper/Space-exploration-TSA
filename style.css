@@ -186,7 +186,7 @@ li{
     text-align: left;
     width: 75%;
     background-position:center;
-    background-size: cover; 
+    background-size: 100vw; 
 }
 h3{ 
     color: white;
