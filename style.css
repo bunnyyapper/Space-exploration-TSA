@@ -204,7 +204,7 @@ background: linear-gradient(90deg, rgb(225, 205, 240), rgb(12, 31, 70));
 .rainbow-text .letter{
     display: inline-block;
     opacity: 0;
-    animation: fadeinDown 1.7s ease forwards;
+    animation: fadeinDown 0.7s ease forwards;
     
 }
     .letter:nth-child(1) { animation-delay: 0.1s;}
