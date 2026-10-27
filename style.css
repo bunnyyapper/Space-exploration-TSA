@@ -203,6 +203,7 @@ h3{
 
 .rainbow-text .letter{
     overflow: visible;
+    padding:2px;
     gap:2px;
     background: linear-gradient(90deg, #1b1675, rgb(183, 156, 252));
  -webkit-background-clip: text;
