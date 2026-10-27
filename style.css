@@ -205,6 +205,8 @@ background: linear-gradient(90deg, rgb(236, 213, 252), rgb(33, 60, 113));
     display: inline-block;
     opacity: 0;
     animation: fadeinDown 1.7s ease forwards;
+    
+}
     .letter:nth-child(1) { animation-delay: 0.1s;}
     .letter:nth-child(2) { animation-delay: 0.2s;}
     .letter:nth-child(3) { animation-delay: 0.3s;}
@@ -222,7 +224,6 @@ background: linear-gradient(90deg, rgb(236, 213, 252), rgb(33, 60, 113));
     .letter:nth-child(15) { animation-delay: 1.5s;}
     .letter:nth-child(16) { animation-delay: 1.6s;}
     .letter:nth-child(17) { animation-delay: 1.7s;}
-}
 @keyframes fadeinDown {
     from{
         opacity: 0;
