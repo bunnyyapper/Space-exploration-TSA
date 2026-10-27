@@ -188,7 +188,7 @@ h3{
     color: white;
     
   }
-.rainbow-text.cascade{
+.cascade.rainbow-text{
     display: flex;
     justify-content: center;
     gap: 2px;
