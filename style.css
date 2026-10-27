@@ -194,8 +194,7 @@ h3{
     gap: 2px;
     flex-wrap: wrap;
     overflow: visible;
-}
-{ background: linear-gradient(90deg, rgb(179, 143, 205), rgb(110, 124, 153));
+background: linear-gradient(90deg, rgb(179, 143, 205), rgb(110, 124, 153));
  -webkit-background-clip: text;
  background-clip: text;
  color: transparent;
