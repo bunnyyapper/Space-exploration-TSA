@@ -191,7 +191,7 @@ h3{
 .cascade.rainbow-text{
     display: flex;
     justify-content: center;
-    gap: 2px;
+    gap: 3px;
     flex-wrap: wrap;
     overflow: visible;
 }
