@@ -8,7 +8,7 @@ html{
     width: 75vw;
     border: 5px solid rgba(175, 3, 255, 0);
     border-radius: 13px;
-    background: linear-gradient(135deg, rgba(6, 9, 83, 0.745), rgba(205, 151, 255, 0.781));
+    background: linear-gradient(135deg, rgba(10, 14, 129, 0.663), rgba(205, 151, 255, 0.781));
     margin-top: 50px;
     padding-right: 0;
     width: fit-content;
