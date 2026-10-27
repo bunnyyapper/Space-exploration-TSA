@@ -4,7 +4,7 @@ html{
     
 }
 .section{
-    display: inline-block;
+    display: flex;
     width: 75vw;
     border: 3px solid rgba(229, 174, 255, 0.667);
     border-radius: 13px;
