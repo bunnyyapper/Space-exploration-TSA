@@ -11,10 +11,9 @@ html{
     background: linear-gradient(135deg, rgba(10, 14, 129, 0.663), rgba(205, 151, 255, 0.781));
     margin-top: 50px;
     padding-right: 0;
-    width: fit-content;
     opacity: 75%;
     -webkit-background-clip: border-box;
- background-clip: border;
+ background-clip: border-box;
  color: transparent;
  background-image:url("galaxy_medium.jpg");
  background-position: center;
