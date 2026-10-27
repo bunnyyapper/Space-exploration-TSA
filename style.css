@@ -207,6 +207,7 @@ h3{
     background: linear-gradient(90deg, #1b1675, rgb(183, 156, 252));
  -webkit-background-clip: text;
  background-clip: text;
+ color:0;
     display: inline-block;
     opacity: 0;
     animation: fadeinDown 0.5s ease forwards;
