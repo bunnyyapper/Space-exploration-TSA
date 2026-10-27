@@ -180,7 +180,7 @@ background: rgba(126, 120, 152, 0.08);
   font-optical-sizing: auto;
   font-weight:700;
   font-style: normal;
-  font-size: 10px;
+  font-size: 30px;
 }
 
 li{ 
@@ -191,7 +191,7 @@ li{
  background-image:url("galaxy_medium.jpg");
     text-align: left;
     background-position:center;
-    background-size: 230%; 
+    background-size: 250%; 
 }
 h3{ 
     color: white;
