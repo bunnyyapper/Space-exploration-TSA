@@ -176,6 +176,9 @@ background: rgba(126, 120, 152, 0.08);
     list-style-position: inside;
     padding-left:0;
     width:50%;
+     font-family: "Zeyada", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 
 li{ 
