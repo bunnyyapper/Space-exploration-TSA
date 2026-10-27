@@ -184,7 +184,7 @@ li{
  color: transparent;
  background-image:url("night-moon-stars.jpg");
     text-align: left;
-    width: 100%;
+    width: 100vw;
     background-position:center;
     background-size: cover; 
 }
