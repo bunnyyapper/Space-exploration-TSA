@@ -199,7 +199,7 @@ h3{
 
 
 .rainbow-text .letter{
-    background: linear-gradient(90deg, #dbbdf2, rgb(12, 31, 70));
+    background: linear-gradient(90deg, #e0bdff, rgb(12, 31, 70));
  -webkit-background-clip: text;
  background-clip: text;
  color: transparent;
@@ -225,7 +225,7 @@ h3{
     .letter:nth-child(15) { animation-delay: 1.5s;}
     .letter:nth-child(16) { animation-delay: 1.6s;}
     .letter:nth-child(17) { animation-delay: 1.7s;}
-    
+
 @keyframes fadeinDown {
     from{
         opacity: 0;
