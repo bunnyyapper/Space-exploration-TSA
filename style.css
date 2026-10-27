@@ -176,12 +176,14 @@ background: rgba(126, 120, 152, 0.08);
      list-style-type:"💫";
     list-style-position: inside;
     padding-left:0;
-    width:50%;
       font-family: "Caveat", cursive;
   font-optical-sizing: auto;
   font-weight:700;
   font-style: normal;
   font-size: 20px;
+}
+.parent-star-list{
+      width:50%;
 }
 
 li{ 
