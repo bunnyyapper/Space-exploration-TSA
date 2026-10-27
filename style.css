@@ -194,14 +194,15 @@ h3{
     gap: 2px;
     flex-wrap: wrap;
     overflow: visible;
-background: linear-gradient(90deg, rgb(203, 134, 255), rgb(12, 31, 70));
+}
+
+
+
+.rainbow-text .letter{
+    background: linear-gradient(90deg, rgb(203, 134, 255), rgb(12, 31, 70));
  -webkit-background-clip: text;
  background-clip: text;
  color: transparent;
-    
-}
-
-.rainbow-text .letter{
     display: inline-block;
     opacity: 0;
     animation: fadeinDown 0.5s ease forwards;
