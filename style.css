@@ -180,7 +180,10 @@ background: rgba(126, 120, 152, 0.08);
 
 li{ 
    
-color: rgb(204, 211, 234);
+ -webkit-background-clip: text;
+ background-clip: text;
+ color: transparent;
+ background-image:url("galaxy_meidum.jpg");
     text-align: left;
     width: 100%;
 }
