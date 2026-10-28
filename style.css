@@ -97,7 +97,7 @@ h1{
 h2{ 
     
      width: 400px;
-    border: 4px solid rgb(176, 206, 237);
+    border: 4px solid rgb(197, 176, 237);
     border-radius: 12px;
     text-align:center;
      font-family: "Geist Pixel", sans-serif;
@@ -106,7 +106,7 @@ h2{
   font-style: normal;
   font-variation-settings:
     "ELSH" 0;
-    color: rgb(217, 247, 252);
+    color: rgb(85, 86, 148);
      margin-left: 110px;
   padding: 0;
 }
