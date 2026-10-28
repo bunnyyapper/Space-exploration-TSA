@@ -195,6 +195,7 @@ li{
     text-align: left;
     background-position:center;
     background-size: 190%; 
+   text-shadow: 1px 1px 1px rgba(235, 206, 255, 0.896);
 }
 h3{ 
     color: white;
