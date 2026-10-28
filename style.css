@@ -259,4 +259,16 @@ h3{
     width:40%;
     height:30%;
 }
-
+@keyframes typewriter {
+    from{
+        width:0;
+    }
+    to{ width: 100;
+      }
+}
+@keyframes blink-caret {
+    from,
+    to { border-color transparent;
+        border-color: blue;
+       }
+    {
