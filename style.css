@@ -112,7 +112,7 @@ h2{
 }
 header{
     display:flex;
-    justify-content: top center;
+    justify-content: center;
     height: 40px;
     align-items: center; /*vertically centers*/
 }
