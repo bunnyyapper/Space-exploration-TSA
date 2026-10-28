@@ -259,3 +259,8 @@ h3{
     width:40%;
     height:30%;
 }
+u{
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    background-color: purple;
+}
