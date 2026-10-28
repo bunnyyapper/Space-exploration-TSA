@@ -192,7 +192,7 @@ li{
  -webkit-background-clip: text;
  background-clip: text;
  color: transparent;
- background-image:url("gradient-nasa-hex.png");
+ color: rgb(0, 198, 255)
     text-align: left;
     background-position:center;
     background-size: 90% 70%; 
