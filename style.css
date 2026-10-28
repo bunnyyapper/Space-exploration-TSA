@@ -213,7 +213,7 @@ h3{
     overflow: visible;
     padding:2px;
     gap:2px;
-    background: linear-gradient(90deg, #3e3b73, rgb(183, 156, 252));
+    background: linear-gradient(90deg, #3e3b73, rgba(205, 185, 255, 0.831));
  -webkit-background-clip: text;
  background-clip: text;
  color:transparent;
