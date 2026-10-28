@@ -191,7 +191,8 @@ li{
    
  -webkit-background-clip: text;
  background-clip: text;
- color: rgb(0, 198, 255);
+ color: transparent;
+ background-image: url("galaxy_medium.jpg");
     text-align: left;
     background-position:center;
     background-size: 90% 70%; 
