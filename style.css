@@ -188,7 +188,7 @@ background: rgba(126, 120, 152, 0.08);
 }
 
 li{ 
-   -webkit-text-stroke: 0.3px rgb(229, 228, 245); 
+   -webkit-text-stroke: 0.3px rgb(204, 239, 255); 
  -webkit-background-clip: text;
  background-clip: text;
  color: transparent;
