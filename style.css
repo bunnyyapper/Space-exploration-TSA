@@ -188,7 +188,7 @@ background: rgba(126, 120, 152, 0.08);
 }
 
 li{ 
-   -webkit-text-stroke: 0.3px rgb(21, 13, 80); 
+   -webkit-text-stroke: 0.4px rgb(21, 13, 80); 
  -webkit-background-clip: text;
  background-clip: text;
  color: transparent;
@@ -196,6 +196,8 @@ li{
     text-align: left;
     background-position:center;
     background-size: 630% 400%; 
+    font-size:16px;
+
 
 }
 h3{ 
