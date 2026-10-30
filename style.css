@@ -188,14 +188,14 @@ background: rgba(126, 120, 152, 0.08);
 }
 
 li{ 
-   -webkit-text-stroke: 0.5px rgb(41, 34, 93); 
+   -webkit-text-stroke: 0.5px rgb(217, 212, 255); 
  -webkit-background-clip: text;
  background-clip: text;
  color: transparent;
  background-image: url("galaxy_medium.jpg");
     text-align: left;
     background-position:center;
-    background-size: 630% 440%; 
+    background-size: 630% 460%; 
     font-size:23px;
 
 
