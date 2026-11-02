@@ -260,7 +260,11 @@ h3{
     }
 }
         
-
+.nasa-moon{
+    padding-top:15px;
+    width:40%;
+    height:30%;
+}
 u{
     text-decoration: underline;
     text-decoration-skip-ink: none;
