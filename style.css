@@ -266,6 +266,7 @@ h3{
     border: 5px solid rgb(54, 115, 242);
     width:40%;
     height:30%;
+    border-radius: 9999px;
 }
 u{
     text-decoration: underline;
