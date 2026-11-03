@@ -258,8 +258,8 @@ h3{
 }
         
 .nasa-moon{
-    border: 5px solid transparent;
-    margin: 12px;
+    border: 6px solid transparent;
+    padding: 10px;
     background: linear-gradient(to right, rgb(173, 177, 223), rgb(74, 61, 117)) border-box; /* strecthes background to the very edge of element */
     width:40%;
     height:30%;
