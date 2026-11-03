@@ -265,6 +265,11 @@ h3{
     border-radius: 94px;
     
 }
+.moon-temp{
+    font-size: 13px;
+    margin-top: 75px;
+}
+
 u{
     text-decoration: underline;
     text-decoration-skip-ink: none;
