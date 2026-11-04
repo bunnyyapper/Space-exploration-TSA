@@ -275,7 +275,7 @@ h3{
     
 }
 
-u{
+.star-list  li{
     text-decoration: underline;
     text-decoration-skip-ink: none;
     color: rgb(187, 249, 253);
