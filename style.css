@@ -189,7 +189,7 @@ background: rgba(126, 120, 152, 0.08);
 }
 
 .section li{ 
-   -webkit-text-stroke: 0.4px rgb(234, 231, 255); 
+   -webkit-text-stroke: 0.4px rgb(93, 85, 142); 
  -webkit-background-clip: text;
  background-clip: text;
  color: transparent;
