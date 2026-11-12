@@ -288,7 +288,9 @@ h3{
 }
 #parent-letter{
     width:30%;
+    z-index:8;
 }
 #button-layer{
-    width:10%
+    width:10%;
+    z-index:9;
 }
