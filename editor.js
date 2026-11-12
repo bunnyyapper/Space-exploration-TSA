@@ -11,7 +11,7 @@ $(document).ready(function(){  /* runs only after html is loaded */
     });
  $("#button-letter").click(function(){
   $("#letter").hide();
-  $("#button-letter").hide();
+  $("#parent-letter").hide();
  })
 });
    
