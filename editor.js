@@ -10,7 +10,7 @@ $(document).ready(function(){  /* runs only after html is loaded */
      $(this).remove();   /*removes the galaxy image after animation is done */ 
     });
  $("#button-letter").click(function(){
-  $("#letter").hide();
+  $("#button-letter").hide();
   $("#parent-letter").hide();
  })
 });
