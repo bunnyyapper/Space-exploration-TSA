@@ -287,10 +287,10 @@ h3{
     color: white;
 }
 #parent-letter{
-    width:30%;
+    width:250px;
     z-index:8;
 }
 #button-letter{
-    width:10%;
+    width:100px;;
     z-index:9;
 }
