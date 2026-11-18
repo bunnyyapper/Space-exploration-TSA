@@ -319,3 +319,15 @@ ol > h3{
     justify-content: space-evenly;
 
 }
+.step1{
+    display: flex;
+    justify-content: space-around;
+    width: 75vw;
+    background: linear-gradient(135deg,rgba(22, 3, 90, 0.805), rgba(198, 158, 255, 0.773));
+    margin-top: 45px;
+    padding-right: 0;
+    opacity: 75%;
+    height:fit-content;
+    overflow-y: scroll;
+    padding:10px;
+}
