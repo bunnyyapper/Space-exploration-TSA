@@ -306,7 +306,8 @@ background: rgba(126, 120, 152, 0.08);
   font-weight: 400;
   font-style: normal;
   font-size:15px;
-  color:rgb(202, 237, 255)
+  color:rgb(202, 237, 255);
+  text-shadow: 4px 5px 5px rgba(95, 82, 139, 0.843);
 
 }
 ol > h3{
