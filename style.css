@@ -9,7 +9,6 @@ html{
     width: 75vw;
     background: linear-gradient(135deg,rgba(22, 3, 90, 0.805), rgba(198, 158, 255, 0.773));
     margin-top: 30px;
-    padding-right: 0;
     opacity: 75%;
     height:fit-content;
     overflow-y: scroll;
@@ -327,7 +326,6 @@ ol > h3{
     width: 75vw;
     background: linear-gradient(135deg,rgba(22, 3, 90, 0.805), rgba(198, 158, 255, 0.773));
     margin-top: 30px;
-    padding-right: 0;
     opacity: 75%;
     height:fit-content;
     overflow-y: scroll;
