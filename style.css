@@ -316,4 +316,5 @@ ol > h3{
 .parent-main{
     display:flex;
     flex-direction: column;
+    justify-content: center;
 }
