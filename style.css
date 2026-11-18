@@ -317,7 +317,8 @@ ol > h3{
     display:flex;
     flex-direction: column;
     justify-content: space-evenly;
-    margin-left:50px;
+    margin: 0 auto;
+    width:80%;
 
 }
 .step1{
