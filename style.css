@@ -201,10 +201,7 @@ background: rgba(126, 120, 152, 0.08);
 
 
 }
-h3{ 
-    color: white;
-    
-  }
+
 .cascade.rainbow-text{
     display: flex;
     justify-content: center;
@@ -309,5 +306,6 @@ h3{
      font-family: "Fascinate", system-ui;
   font-weight: 400;
   font-style: normal;
+  color:white
 
 }
