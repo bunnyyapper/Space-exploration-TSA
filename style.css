@@ -313,3 +313,7 @@ background: rgba(126, 120, 152, 0.08);
 ol > h3{
     color:white;
 }
+.parent-main{
+    display:flex;
+    flex-direction: column;
+}
