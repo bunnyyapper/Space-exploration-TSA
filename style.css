@@ -306,10 +306,10 @@ background: rgba(126, 120, 152, 0.08);
      font-family: "Fascinate", system-ui;
   font-weight: 400;
   font-style: normal;
-  font-size:20px;
+  font-size:15px;
   color:rgb(202, 237, 255)
 
 }
-h3{
+ol > h3{
     color:white;
 }
