@@ -335,6 +335,10 @@ ol > h3{
 
 .step1>h3{
     color:white;
+     font-family: "Fascinate", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size:15px;
 }
 #step1-img{
     width: 40%
