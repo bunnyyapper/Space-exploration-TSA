@@ -194,7 +194,7 @@ background: rgba(126, 120, 152, 0.08);
  background-image: url("galaxy_medium.jpg");
     text-align: left;
     background-position:center;
-    background-size: 750% 650%; 
+    background-size: 800% 650%; 
     font-size:22px;
     margin-bottom:10px;
 
@@ -335,4 +335,7 @@ ol > h3{
 
 .step1>h3{
     color:white;
+}
+#step1-img{
+    width:
 }
