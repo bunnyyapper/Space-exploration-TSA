@@ -312,6 +312,14 @@ background: rgba(126, 120, 152, 0.08);
 }
 ol > h3{
     color:white;
+     font-family: "Geist Pixel", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "ELSH" 0;
+    color: rgb(44, 45, 100);
+     margin-left: 110px;
 }
 .parent-main{
     display:flex;
